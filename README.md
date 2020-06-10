@@ -1,5 +1,5 @@
 # airline-tickets
-A small school project for an Airline management application written in C# that uses the MVVM design pattern and an ORM framework (EF6). The application has 3 types of users:
+A small school project for an Airline management application written in C# that uses the MVVM architectural pattern and an ORM framework (EF6). The application has 3 types of users:
 * Regular users
 * Employees
 * Admins
